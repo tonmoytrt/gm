@@ -2306,7 +2306,7 @@ p {
   -ms-flex: 0 auto;
   flex: 0 auto;
   border: 2px none #000;
-  background-color: #8c52ff;
+  background-color: #ffc300;
 }
 
 .marquee-text {
@@ -2890,7 +2890,7 @@ p {
 .marquee__contain.is--two {
   top: -72px;
   z-index: 2;
-  background-color: #8c52ff;
+  background-color: #ffc300;
   -webkit-transform: rotate(-6deg);
   -ms-transform: rotate(-6deg);
   transform: rotate(-6deg);
@@ -3698,7 +3698,7 @@ p {
   -ms-flex: 0 auto;
   flex: 0 auto;
   border: 2px solid #000;
-  background-color: #8c52ff;
+  background-color: #ffc300;
 }
 
 .faq__title__wrapper {
@@ -4220,7 +4220,7 @@ p {
   -ms-flex: 0 auto;
   flex: 0 auto;
   border: 2px none #000;
-  background-color: #8c52ff;
+  background-color: #ffc300;
 }
 
 .flex-scrolling {
@@ -4820,7 +4820,7 @@ p {
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
     flex: 0 auto;
-    background-color: #8c52ff;
+    background-color: #ffc300;
   }
 
   .cards__container {
